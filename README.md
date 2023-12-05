@@ -22,18 +22,7 @@
   </p>
 </p>
 
-<div align="center">
 
-![Contributors](https://img.shields.io/github/contributors/Blazity/next-saas-starter?color=dark-green) ![Issues](https://img.shields.io/github/issues/Blazity/next-saas-starter) ![License](https://img.shields.io/github/license/Blazity/next-saas-starter)
-
-</div>
-
-<p align="center"><b>Created with :heart: at Blazity </b></p>
-<p align="center"><a href="https://blazity.com/">Blazity</a> is a group of Next.js/Jamstack/Headless experts. Contact us at <a href="mailto:contact@blazity.com">contact@blazity.com</a> if you’d like to talk about your project or just to have a chat with us</p>
-
-<a href="https://discord.gg/fyWtyNKmfX" style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://discordapp.com/api/guilds/1111676875782234175/widget.png?style=banner2" alt="Blazity Discord Banner"/>
-</a>
 <br />
 
 ## Table Of Contents
@@ -64,14 +53,6 @@
 - **Prettier**
 
 ## 🤓 Getting Started
-
-- Click `Use the template` or [this link](https://github.com/Blazity/next-saas-starter/generate)
-- Setup your [sendgrid](https://sendgrid.com/) API key and add it to environment variables (`SENDGRID_API_KEY` - `.env.local`)
-- Adjust the template to your needs (and checkout `env.ts` file)
-- Deploy the project on [Vercel](https://vercel.com/) **don't forget to add env variables**
-- _(optional)_ Create [Tina Cloud account](https://app.tina.io/), [a project](https://tina.io/docs/tina-cloud/) and fill these `NEXT_PUBLIC_ORGANIZATION_NAME`, `NEXT_PUBLIC_TINA_CLIENT_ID` env vars with proper values
-  > Tina's Content API authenticates directly with GitHub removing the need for users to create GitHub accounts. Access is granted through the dashboard, allowing users to login directly through your site and begin editing! Any changes that are saved by your editors will be commited to the configured branch in your GitHub repository.
-  - For more details [see the docs](https://tina.io/docs/tina-cloud/)
 
 ```
 # run the dev mode
@@ -155,4 +136,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📝 License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Blazity/next-saas-starter/blob/main/LICENSE.md) for more information.
